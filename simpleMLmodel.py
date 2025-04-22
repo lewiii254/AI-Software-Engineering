@@ -17,4 +17,4 @@ model.fit(X_train, y_train)
 
 # Make a prediction
 predicted_price = model.predict([[1500, 3]])
-print(f"Predicted Price: ${predicted_price[0]:.2f}")cls
+print(f"Predicted Price: ${predicted_price[0]:.2f}")

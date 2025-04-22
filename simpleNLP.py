@@ -4,6 +4,7 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
 # Download necessary NLTK data
+nltk.download('popular')
 nltk.download('punkt')
 nltk.download('stopwords')
 
