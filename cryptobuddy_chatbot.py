@@ -1,5 +1,5 @@
-
 # CryptoBuddy - Your First AI-Powered Financial Sidekick! 🌟
+
 
 crypto_db = {
     "Bitcoin": {
